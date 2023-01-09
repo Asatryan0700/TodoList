@@ -244,6 +244,7 @@ header {
     flex-direction: row;
     padding-block: 0.1rem;
     margin-bottom: 1rem;
+	align-items: center;
 }
 
 .flex-col {
