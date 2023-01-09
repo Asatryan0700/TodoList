@@ -480,3 +480,4 @@ input:checked + .slider:before {
     flex-direction: column; 
     color: #818181;
 }
+
